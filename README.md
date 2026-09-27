@@ -2,8 +2,6 @@
 
 **QA Automation Engineer**
 
-QA professional with 6+ years of manual and automated testing across fintech, healthcare, and enterprise platforms. I've led QA teams of up to 6 engineers, built Selenium + Java frameworks integrated into Jenkins CI/CD, and tested PCI DSS payment flows and HIPAA-regulated EHR integrations.
-
 ISTQB Foundation (CTFL) · PMP · MBA (Canada) · B.Tech, Electronics & Communication
 
 ### 🔧 What I work with
